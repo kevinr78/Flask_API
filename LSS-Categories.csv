@@ -1,0 +1,784 @@
+integrated_category_index,integrated_category_id,integrated_category_label
+0,10001,Amusement Park
+1,10002,Aquarium
+2,10003,Arcade
+3,10004,Art Gallery
+4,10005,Bingo Center
+5,10006,Bowling Alley
+6,10007,Carnival
+7,10008,Casino
+8,10009,Circus
+9,10010,Comedy Club
+10,10011,Country Club
+11,10012,Country Dance Club
+12,10013,Dance Hall
+13,10014,Disc Golf Course
+14,10015,Escape Room
+15,10016,Exhibit
+16,10017,Fair
+17,10018,Gaming Cafe
+18,10019,Go Kart Track
+19,10020,Internet Cafe
+20,10022,Laser Tag Center
+21,10023,Mini Golf Course
+22,10024,Movie Theater
+23,10025,Drive-in Theater
+24,10026,Indie Movie Theater
+25,10027,Museum
+26,10028,Art Museum
+27,10029,Erotic Museum
+28,10030,History Museum
+29,10031,Science Museum
+30,10032,Night Club
+31,10034,Party Center
+32,10035,Performing Arts Venue
+33,10036,Amphitheater
+34,10037,Concert Hall
+35,10038,Indie Theater
+36,10039,Music Venue
+37,10040,Jazz and Blues Venue
+38,10041,Rock Club
+39,10042,Opera House
+40,10043,Theater
+41,10044,Planetarium
+42,10045,Pool Hall
+43,10046,Psychics and Astrologers
+44,10047,Public Art
+45,10048,Roller Rink
+46,10049,Salsa Club
+47,10051,Stadium
+48,10052,Strip Club
+49,10053,Ticket Seller
+50,10054,VR Cafe
+51,10055,Water Park
+52,10056,Zoo
+53,11001,Advertising Agency
+54,11002,Agriculture and Forestry Service
+55,11003,Architecture Firm
+56,11004,Art Restoration Service
+57,11005,Art Studio
+58,11006,Audiovisual Service
+59,11007,Auditorium
+60,11008,Automation and Control System
+61,11009,Automotive Service
+62,11010,Automotive Repair Shop
+63,11011,Car Wash and Detail
+64,11012,Motorcycle Repair Shop
+65,11013,Oil Change Service
+66,11014,Smog Check Shop
+67,11015,Tire Repair Shop
+68,11016,Towing Service
+69,11017,Transmissions Shop
+70,11018,Vehicle Inspection Station
+71,11019,Ballroom
+72,11020,Business and Strategy Consulting Office
+73,11021,Business Center
+74,11022,Campaign Office
+75,11023,Career Counselor
+76,11024,Chemicals and Gasses Manufacturer
+77,11025,Child Care Service
+78,11026,Daycare
+79,11027,Computer Repair Service
+80,11028,Construction
+81,11029,Convention Center
+82,11030,Design Studio
+83,11031,Distribution Center
+84,11032,Electrical Equipment Supplier
+85,11033,Employment Agency
+86,11034,Engineer
+87,11035,Entertainment Agency
+88,11036,Entertainment Service
+89,11037,Equipment Rental Service
+90,11038,Event Service
+91,11039,Event Space
+92,11040,Factory
+93,11041,Film Studio
+94,11042,Financial Service
+95,11043,Accounting and Bookkeeping Service
+96,11046,Banking and Finance
+97,11044,ATM
+98,11045,Bank
+99,11051,Credit Union
+100,11047,Business Broker
+101,11048,Check Cashing Service
+102,11049,Collections Service
+103,11050,Credit Counseling and Bankruptcy Service
+104,11052,Currency Exchange
+105,11053,Financial Planner
+106,11054,Loans Agency
+107,11055,Stock Broker
+108,11056,Food and Beverage Service
+109,11057,Caterer
+110,11058,Food Distribution Center
+111,11059,Funeral Home
+112,11060,Geological Service
+113,11061,Health and Beauty Service
+114,11062,Barbershop
+115,11063,Bath House
+116,11065,Body Piercing Shop
+117,11066,Dry Cleaner
+118,11067,Hair Removal Service
+119,11064,Hair Salon
+120,11068,Laundromat
+121,11069,Laundry Service
+122,11070,Massage Clinic
+123,11071,Nail Salon
+124,11072,Skin Care Clinic
+125,11073,Spa
+126,11074,Tanning Salon
+127,11075,Tattoo Parlor
+128,11076,Home Improvement Service
+129,11077,Bathroom Contractor
+130,11078,Carpenter
+131,11079,Carpet and Flooring Contractor
+132,11080,Chimney Sweep
+133,11081,Deck and Patio Contractor
+134,11082,Doors and Windows Contractor
+135,11083,Electrician
+136,11084,Fence Contractor
+137,11085,Garage Door Supplier
+138,11086,General Contractor
+139,11087,"Heating, Ventilating and Air Conditioning Contractor"
+140,11088,Home Inspection
+141,11089,Home Service
+142,11090,Interior Designer
+143,11091,Kitchen Remodeler
+144,11092,Landscaper and Gardener
+145,11093,Mover
+146,11094,Painter
+147,11095,Pest Control Service
+148,11096,Plumber
+149,11097,Professional Cleaning Service
+150,11098,Roofer
+151,11099,Sewer Contractor
+152,11100,Swimming Pool Maintenance and Service
+153,11101,Tree Service
+154,11102,Upholstery Service
+155,11103,Human Resources Agency
+156,11104,Import and Export Service
+157,11105,Industrial Equipment Supplier
+158,11106,Industrial Estate
+159,11107,Insurance Agency
+160,11109,Laboratory
+161,11110,Leather Supplier
+162,11111,Legal Service
+163,11112,Attorney / Law Office
+164,11113,Immigration Attorney
+165,11114,Notary
+166,11115,Locksmith
+167,11116,Logging Service
+168,11117,Lottery Retailer
+169,11118,Machine Shop
+170,11119,Management Consultant
+171,11120,Manufacturer
+172,11121,Media Agency
+173,11122,Metals Supplier
+174,11123,Mobile Company
+175,11124,Office
+176,11125,Corporate Cafeteria
+177,11126,Corporate Coffee Shop
+178,11127,Corporate Housing Agency
+179,11128,Coworking Space
+180,11129,Meeting Room
+181,11130,Office Building
+182,11131,Outdoor Event Space
+183,11132,Paper Supplier
+184,11133,Pet Service
+185,11134,Pet Grooming Service
+186,11135,Pet Sitting and Boarding Service
+187,11136,Petroleum Supplier
+188,11137,Photography Service
+189,11138,Photographer
+190,11139,Photography Lab
+191,11140,Photography Studio
+192,11141,Plastics Supplier
+193,11142,Power Plant
+194,11143,Publisher
+195,11144,Radio Station
+196,11145,Real Estate Service
+197,11146,Building and Land Surveyor
+198,11147,Commercial Real Estate Developer
+199,11148,Property Management Office
+200,11149,Real Estate Agency
+201,11150,Real Estate Appraiser
+202,11151,Real Estate Development and Title Company
+203,11152,Recording Studio
+204,11153,Recycling Facility
+205,11154,Refrigeration and Ice Supplier
+206,11155,Renewable Energy Service
+207,11156,Rental Service
+208,11157,Repair Service
+209,11158,Research Station
+210,11159,Rubber Supplier
+211,11160,Salvage Yard
+212,11161,Scientific Equipment Supplier
+213,11162,Security and Safety
+214,11163,"Shipping, Freight, and Material Transportation Service"
+215,11164,Shoe Repair Service
+216,11165,Storage Facility
+217,11166,Tailor
+218,11167,Technology Business
+219,11108,IT Service
+220,11168,Software Company
+221,11169,Website Designer
+222,11170,Telecommunication Service
+223,11171,Translation Service
+224,11172,Tutoring Service
+225,11173,TV Station
+226,11174,Warehouse
+227,11175,Waste Management Service
+228,11176,Water Treatment Service
+229,11177,Wedding Hall
+230,11178,Welding Service
+231,11179,Wholesaler
+232,13001,Bagel Shop
+233,13002,Bakery
+234,13003,Bar
+235,13004,Apres Ski Bar
+236,13005,Beach Bar
+237,13006,Beer Bar
+238,13007,Beer Garden
+239,13009,Cocktail Bar
+240,13010,Dive Bar
+241,13011,Gay Bar
+242,13012,Hookah Bar
+243,13013,Hotel Bar
+244,13014,Ice Bar
+245,13015,Karaoke Bar
+246,13016,Lounge
+247,13017,Piano Bar
+248,13018,Pub
+249,13019,Rooftop Bar
+250,13020,Sake Bar
+251,13021,Speakeasy
+252,13022,Sports Bar
+253,13023,Tiki Bar
+254,13024,Whisky Bar
+255,13025,Wine Bar
+256,13028,Breakfast Spot
+257,13029,Brewery
+258,13032,"Cafes, Coffee, and Tea Houses"
+259,13033,Bubble Tea Shop
+260,13034,Cafe
+261,13035,Coffee Shop
+262,13063,Pet Cafe
+263,13036,Tea Room
+264,13037,Cafeteria
+265,13040,Dessert Shop
+266,13041,Creperie
+267,13042,Cupcake Shop
+268,13043,Donut Shop
+269,13044,Frozen Yogurt Shop
+270,13045,Gelato Shop
+271,13046,Ice Cream Parlor
+272,13047,Pastry Shop
+273,13048,Pie Shop
+274,13050,Distillery
+275,13052,Food Court
+276,13053,Food Stand
+277,13054,Food Truck
+278,13059,Juice Bar
+279,13062,Night Market
+280,13065,Restaurant
+281,13066,Afghan Restaurant
+282,13067,African Restaurant
+283,13068,American Restaurant
+284,13069,Arepa Restaurant
+285,13070,Argentinian Restaurant
+286,13071,Armenian Restaurant
+287,13072,Asian Restaurant
+288,13073,Australian Restaurant
+289,13074,Austrian Restaurant
+290,13075,Bangladeshi Restaurant
+291,13026,BBQ Joint
+292,13077,Belgian Restaurant
+293,13027,Bistro
+294,13078,Bosnian Restaurant
+295,13079,Brazilian Restaurant
+296,13030,Buffet
+297,13093,Bulgarian Restaurant
+298,13031,Burger Joint
+299,13094,Burmese Restaurant
+300,13095,Cajun / Creole Restaurant
+301,13096,Cambodian Restaurant
+302,13097,Caribbean Restaurant
+303,13098,Caucasian Restaurant
+304,13099,Chinese Restaurant
+305,13102,Cantonese Restaurant
+306,13103,Cha Chaan Teng
+307,13106,Dim Sum Restaurant
+308,13127,Szechuan Restaurant
+309,13133,Colombian Restaurant
+310,13134,Comfort Food Restaurant
+311,13135,Cuban Restaurant
+312,13136,Czech Restaurant
+313,13039,Deli
+314,13049,Diner
+315,13137,Dumpling Restaurant
+316,13138,Dutch Restaurant
+317,13139,Eastern European Restaurant
+318,13140,Egyptian Restaurant
+319,13141,Empanada Restaurant
+320,13142,English Restaurant
+321,13143,Ethiopian Restaurant
+322,13144,Falafel Restaurant
+323,13145,Fast Food Restaurant
+324,13146,Filipino Restaurant
+325,13051,Fish and Chips Shop
+326,13147,Fondue Restaurant
+327,13148,French Restaurant
+328,13152,Brasserie
+329,13055,Fried Chicken Joint
+330,13057,Gastropub
+331,13165,German Restaurant
+332,13167,Bavarian Restaurant
+333,13177,Greek Restaurant
+334,13188,Souvlaki Shop
+335,13191,Halal Restaurant
+336,13192,Hawaiian Restaurant
+337,13193,Poke Restaurant
+338,13194,Himalayan Restaurant
+339,13195,Honduran Restaurant
+340,13058,Hot Dog Joint
+341,13197,Hungarian Restaurant
+342,13198,Indian Chinese Restaurant
+343,13199,Indian Restaurant
+344,13200,Andhra Restaurant
+345,13201,Awadhi Restaurant
+346,13202,Bengali Restaurant
+347,13203,Chaat Place
+348,13204,Chettinad Restaurant
+349,13205,Dhaba
+350,13207,Goan Restaurant
+351,13208,Gujarati Restaurant
+352,13209,Hyderabadi Restaurant
+353,13210,Indian Sweet Shop
+354,13211,Irani Cafe
+355,13212,Jain Restaurant
+356,13213,Karnataka Restaurant
+357,13214,Kerala Restaurant
+358,13215,Maharashtrian Restaurant
+359,13216,Mughlai Restaurant
+360,13217,Multicuisine Indian Restaurant
+361,13218,North Indian Restaurant
+362,13219,Northeast Indian Restaurant
+363,13220,Parsi Restaurant
+364,13221,Punjabi Restaurant
+365,13222,Rajasthani Restaurant
+366,13223,South Indian Restaurant
+367,13224,Udupi Restaurant
+368,13225,Indonesian Restaurant
+369,13234,Iraqi Restaurant
+370,13235,Israeli Restaurant
+371,13236,Italian Restaurant
+372,13263,Japanese Restaurant
+373,13265,Japanese Curry Restaurant
+374,13272,Ramen Restaurant
+375,13273,Shabu-Shabu Restaurant
+376,13274,Soba Restaurant
+377,13276,Sushi Restaurant
+378,13281,Udon Restaurant
+379,13286,Jewish Restaurant
+380,13287,Kosher Restaurant
+381,13288,Kebab Restaurant
+382,13289,Korean Restaurant
+383,13294,Korean BBQ Restaurant
+384,13296,Kurdish Restaurant
+385,13297,Latin American Restaurant
+386,13298,Lebanese Restaurant
+387,13299,Malay Restaurant
+388,13301,Mauritian Restaurant
+389,13302,Mediterranean Restaurant
+390,13303,Mexican Restaurant
+391,13305,Burrito Restaurant
+392,13306,Taco Restaurant
+393,13309,Middle Eastern Restaurant
+394,13310,Modern European Restaurant
+395,13311,Molecular Gastronomy Restaurant
+396,13312,Mongolian Restaurant
+397,13313,Moroccan Restaurant
+398,13314,New American Restaurant
+399,13315,Noodle Restaurant
+400,13316,Pakistani Restaurant
+401,13317,Persian Restaurant
+402,13322,Peruvian Restaurant
+403,13323,Peruvian Roast Chicken Joint
+404,13064,Pizzeria
+405,13324,Polish Restaurant
+406,13325,Portuguese Restaurant
+407,13327,Puerto Rican Restaurant
+408,13328,Romanian Restaurant
+409,13329,Russian Restaurant
+410,13332,Salad Restaurant
+411,13333,Salvadoran Restaurant
+412,13334,Sandwich Restaurant
+413,13335,Satay Restaurant
+414,13336,Scandinavian Restaurant
+415,13337,Scottish Restaurant
+416,13338,Seafood Restaurant
+417,13339,Shawarma Restaurant
+418,13340,Singaporean Restaurant
+419,13341,Slovak Restaurant
+420,13342,Soup Restaurant
+421,13343,South American Restaurant
+422,13344,Southern / Soul Food Restaurant
+423,13345,Spanish Restaurant
+424,13346,Paella Restaurant
+425,13347,Tapas Restaurant
+426,13348,Sri Lankan Restaurant
+427,13383,Steakhouse
+428,13349,Swiss Restaurant
+429,13350,Syrian Restaurant
+430,13352,Thai Restaurant
+431,13354,Theme Restaurant
+432,13355,Tibetan Restaurant
+433,13356,Turkish Restaurant
+434,13360,Doner Restaurant
+435,13374,Ukrainian Restaurant
+436,13377,Vegan and Vegetarian Restaurant
+437,13378,Venezuelan Restaurant
+438,13379,Vietnamese Restaurant
+439,13388,Wings Joint
+440,13380,Yemeni Restaurant
+441,13381,Smoothie Shop
+442,13382,Snack Place
+443,13385,Truck Stop
+444,13386,Vineyard
+445,13387,Winery
+446,14001,Conference
+447,14002,Convention
+448,14003,Entertainment Event
+449,14004,Festival
+450,14005,Music Festival
+451,14006,Parade
+452,14007,Sporting Event
+453,14008,Line / Queue
+454,14009,Marketplace
+455,14010,Christmas Market
+456,14011,Stoop Sale
+457,14012,Street Fair
+458,14013,Street Food Gathering
+459,14014,Trade Fair
+460,14015,Other Event
+461,15001,Acupuncture Clinic
+462,15002,AIDS Resource
+463,15003,Alternative Medicine Clinic
+464,15004,Assisted Living Service
+465,15005,Blood Bank
+466,15006,Chiropractor
+467,15007,Dentist
+468,15008,Emergency Service
+469,15009,Ambulance Service
+470,15010,Emergency Room
+471,15011,Healthcare Clinic
+472,15012,Home Health Care Service
+473,15013,Hospice
+474,15014,Hospital
+475,15015,Maternity Clinic
+476,15016,Medical Center
+477,15017,Medical Lab
+478,15018,Mental Health Service
+479,15019,Mental Health Clinic
+480,15020,Psychologist
+481,15021,Nurse
+482,15022,Nursing Home
+483,15023,Nutritionist
+484,15024,Optometrist
+485,15025,Other Healthcare Professional
+486,15026,Physical Therapy Clinic
+487,15027,Physician
+488,15028,Anesthesiologist
+489,15029,Cardiologist
+490,15030,Dermatologist
+491,15031,Doctor's Office
+492,15032,"Ear, Nose and Throat Doctor"
+493,15033,Family Medicine Doctor
+494,15034,Gastroenterologist
+495,15035,General Surgeon
+496,15036,Geriatric Doctor
+497,15037,Internal Medicine Doctor
+498,15038,Neurologist
+499,15039,Obstetrician Gynecologist (Ob-gyn)
+500,15040,Oncologist
+501,15041,Ophthalmologist
+502,15042,Oral Surgeon
+503,15043,Orthopedic Surgeon
+504,15044,Pathologist
+505,15045,Pediatrician
+506,15046,Plastic Surgeon
+507,15047,Psychiatrist
+508,15048,Radiologist
+509,15049,Respiratory Doctor
+510,15050,Urologist
+511,15051,Podiatrist
+512,15052,Sports Medicine Clinic
+513,15053,Urgent Care Center
+514,15054,Veterinarian
+515,15055,Weight Loss Center
+516,15056,Women's Health Clinic
+517,17001,Adult Store
+518,17002,Antique Store
+519,17003,Arts and Crafts Store
+520,17004,Auction House
+521,17005,Automotive Retail
+522,17006,Car Dealership
+523,17007,Classic and Antique Car Dealership
+524,17008,New Car Dealership
+525,17009,RV and Motorhome Dealership
+526,17010,Used Car Dealership
+527,17011,Car Parts and Accessories
+528,17012,Motorcycle Dealership
+529,17013,Motorsports Store
+530,17014,Baby Store
+531,17015,Betting Shop
+532,17016,Big Box Store
+533,17017,Board Store
+534,17018,Bookstore
+535,17019,Used Bookstore
+536,17020,Boutique
+537,17022,Comic Book Store
+538,17023,Computers and Electronics Retail
+539,17024,Camera Store
+540,17025,Electronics Store
+541,17026,Mobile Phone Store
+542,17027,Video Games Store
+543,17028,Construction Supplies Store
+544,17029,Convenience Store
+545,17030,Cosmetics Store
+546,17031,Costume Store
+547,17032,Dance Store
+548,17033,Department Store
+549,17034,Discount Store
+550,17035,Drugstore
+551,17036,Duty-free Store
+552,17037,Eyecare Store
+553,17038,Fabric / Textiles Store
+554,17039,Fashion Retail
+555,17041,Bridal Store
+556,17042,Children's Clothing Store
+557,17043,Clothing Store
+558,17044,Fashion Accessories Store
+559,17045,Jewelry Store
+560,17046,Lingerie Store
+561,17047,Men's Store
+562,17048,Shoe Store
+563,17049,Sunglasses Store
+564,17050,Swimwear Store
+565,17051,Watch Store
+566,17052,Women's Store
+567,17053,Fireworks Store
+568,17054,Flea Market
+569,17055,Floating Market
+570,17056,Flower Store
+571,17057,Retail
+572,17058,Beer Store
+573,17059,Butcher
+574,17060,Candy Store
+575,17061,Cheese Store
+576,17062,Chocolate Store
+577,17063,Coffee Roaster
+578,17064,Dairy Store
+579,17065,Farmers' Market
+580,17066,Fish Market
+581,17067,Fruit and Vegetable Store
+582,17068,Gourmet Store
+583,17069,Grocery Store / Supermarket
+584,17070,Organic Grocery
+585,17071,Health Food Store
+586,17072,Herbs and Spices Store
+587,17073,Imported Food Store
+588,17074,Kosher Store
+589,17076,Liquor Store
+590,17077,Meat and Seafood Store
+591,17078,Sausage Store
+592,17080,Wine Store
+593,17081,Framing Store
+594,17082,Furniture and Home Store
+595,17083,Carpet Store
+596,17084,Home Appliance Store
+597,17085,Housewares Store
+598,17086,Kitchen Supply Store
+599,17087,Lighting Store
+600,17088,Mattress Store
+601,17101,Garden Center
+602,17089,Gift Store
+603,17090,Hardware Store
+604,17091,Hobby Store
+605,17092,Knitting Store
+606,17093,Leather Goods Store
+607,17094,Luggage Store
+608,17095,Medical Supply Store
+609,17096,Miscellaneous Store
+610,17097,Mobility Store
+611,17098,Music Store
+612,17100,Newsstand
+613,17102,Office Supply Store
+614,17103,Outdoor Supply Store
+615,17104,Outlet Mall
+616,17105,Outlet Store
+617,17106,Packaging Supply Store
+618,17107,Party Supply Store
+619,17108,Pawn Shop
+620,17109,Perfume Store
+621,17110,Pet Supplies Store
+622,17111,Pop-Up Store
+623,17112,Print Store
+624,17113,Record Store
+625,17114,Shopping Mall
+626,17115,Shopping Plaza
+627,17116,Souvenir Store
+628,17117,Sporting Goods Retail
+629,17118,Baseball Store
+630,17119,Bicycle Store
+631,17120,Dive Store
+632,17121,Fishing Store
+633,17122,Golf Store
+634,17123,Gun Store
+635,17124,Hunting Supply Store
+636,17125,Running Store
+637,17126,Skate Store
+638,17127,Ski Store
+639,17128,Soccer Store
+640,17129,Surf Store
+641,17130,Tennis Store
+642,17131,Stationery Store
+643,17132,Supplement Store
+644,17133,Swimming Pool Supply Store
+645,17134,Tobacco Store
+646,17135,Toy / Game Store
+647,17136,Vaporizer Store
+648,17137,Video Store
+649,17138,Vintage and Thrift Store
+650,17139,Warehouse / Wholesale Store
+651,18001,Athletic Field
+652,18002,Baseball
+653,18003,Baseball Club
+654,18004,Baseball Field
+655,18005,Batting Range
+656,18006,Basketball
+657,18007,Basketball Club
+658,18008,Basketball Court
+659,18009,Bowling Green
+660,18010,Cricket Ground
+661,18011,Curling Ice
+662,18012,Equestrian Facility
+663,18013,Football
+664,18014,Football Club
+665,18015,Football Field
+666,18016,Golf
+667,18017,Golf Club
+668,18018,Golf Course
+669,18019,Golf Driving Range
+670,18020,Gun Range
+671,18021,Gym and Studio
+672,18022,Boxing Gym
+673,18023,Climbing Gym
+674,18024,Cycle Studio
+675,18025,Dance Studio
+676,18026,Outdoor Gym
+677,18027,Pilates Studio
+678,18028,Yoga Studio
+679,18029,Gymnastics
+680,18030,Gymnastics Center
+681,18031,Hockey
+682,18032,Hockey Club
+683,18033,Hockey Field
+684,18034,Hockey Rink
+685,18035,Indoor Play Area
+686,18036,Martial Arts Dojo
+687,18037,Paintball Field
+688,18038,Personal Trainer
+689,18039,Race Track
+690,18040,Racquet Sports
+691,18041,Badminton Court
+692,18042,Racquet Sport Club
+693,18043,Racquetball Club
+694,18044,Squash Court
+695,18045,Tennis
+696,18046,Tennis Club
+697,18047,Tennis Court
+698,18048,Recreation Center
+699,18049,Rugby
+700,18050,Rugby Pitch
+701,18051,Running and Track
+702,18052,Running Club
+703,18053,Track
+704,18054,Skating
+705,18055,Skate Park
+706,18056,Skating Rink
+707,18057,Skydiving Center
+708,18058,Snow Sports
+709,18059,Ski Chalet
+710,18060,Ski Lodge
+711,18061,Ski Resorts and Areas
+712,18062,Soccer
+713,18063,Soccer Club
+714,18064,Soccer Field
+715,18065,Sports Club
+716,18066,Volleyball Court
+717,18067,Water Sports
+718,18068,Canoe and Kayak Rental
+719,18069,Rafting Outfitter
+720,18070,Sailing Club
+721,18071,Scuba Diving Instructor
+722,18072,Surfing
+723,18073,Swimming
+724,18076,Swim School
+725,18074,Swimming Club
+726,18075,Swimming Pool
+727,19001,Baggage Locker
+728,19002,Bike Rental
+729,19003,Boat Rental
+730,19004,Border Crossing
+731,19005,Cruise
+732,19006,Electric Vehicle Charging Station
+733,19007,Fuel Station
+734,19008,Hot Air Balloon Tour Agency
+735,19009,Lodging
+736,19010,Bed and Breakfast
+737,19011,Boarding House
+738,19012,Cottage / Cabin
+739,19013,Hostel
+740,19014,Hotel
+741,19015,Inn
+742,19016,Lodge
+743,19017,Motel
+744,19018,Resort
+745,19019,Vacation Rental
+746,19020,Parking
+747,19021,Pier
+748,19022,Platform
+749,19023,Port
+750,19024,Rest Area
+751,19025,RV Park
+752,19026,Toll Booth
+753,19027,Toll Plaza
+754,19028,Tourist Information and Service
+755,19029,Tour Provider
+756,19030,Transport Hub
+757,19031,Travel and Transportation
+758,19032,Airfield
+759,19033,Airport Food Court
+760,19034,Airport Gate
+761,19035,Airport Lounge
+762,19036,Airport Service
+763,19037,Airport Terminal
+764,19038,Airport Tram Station
+765,19039,Baggage Claim
+766,19040,International Airport
+767,19041,Private Airport
+768,19042,Bus Station
+769,19043,Bus Stop
+770,19044,Heliport
+771,19045,Marine Terminal
+772,19046,Metro Station
+773,19047,Rail Station
+774,19048,Rental Car Location
+775,19049,Taxi Stand
+776,19050,Tram Station
+777,19051,Transportation Service
+778,19052,Charter Bus
+779,19053,Limo / Chauffeur
+780,19054,Public Transportation
+781,19055,Travel Agency
+782,19056,Travel Lounge
