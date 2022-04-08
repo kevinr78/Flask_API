@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-import data_model as dm
+from app.data_model import data_model as dm
 app = Flask(__name__)
 
 
