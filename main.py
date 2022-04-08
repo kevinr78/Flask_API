@@ -1,5 +1,6 @@
 from flask import Flask, jsonify, request
-from app.data_model import data_model as dm
+import data_model as dm
+import waitress
 app = Flask(__name__)
 
 
@@ -18,4 +19,4 @@ def testPOST():
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=105)
+    waitress.serve(app, listen='0.0.0.0:5003')
