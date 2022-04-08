@@ -15,3 +15,7 @@ def testPOST():
     model_data = dm.filter_similar_categories_according_to_location(
         ap_data["userId"], ap_data["ToD"], location, "50")
     return jsonify(model_data)
+
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=105)
